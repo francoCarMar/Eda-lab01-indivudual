@@ -65,30 +65,29 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase, con 
 
 </td></tr>
 <tr><td><b>II. SOLUCIÓN DEL CUESTIONARIO</b>
-    <pre><ul>
-        <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>
+    <tr><td><ul>
+        <li><b>¿Por qué Git y GitHub son herramientas importantes para el curso?</b></li>
 Estas herramientas nos permiten tener varias versiones del trabajo que hagamos además 
 de poder documentar nuestro pensamiento y tener un backup en caso se pierda el codigo 
 guardado en nuestra máquina local. Además, nos permite realizar trabajo en equipo 
 usando distintas ramas lo cual es fundamental en la vida de un desarrollador.
-        <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de
-Control de Versiones?</li>
+        <li><b>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de
+Control de Versiones?</b></li>
 Si bien git nos permite colaborar en equipo cuando  trabajamos en un proyecto, 
 puede ocurrir la situación donde algunos no aporten al código mientras hay un
 avance, por eso se debe promover el avance mutuo, también, el mejoramiento del
 proyecto, es decir si se repartieron clases o partes del proyecto y ya terminado 
 se ve que hay código óptimo para lo que ya existe, se debe colaborar dando 
 sugerencias puesto que github promueve el avance del equipo, no de uno solo.
-        <li>¿Qué son los entándares de codificación?</li>
+        <li><b>¿Qué son los entándares de codificación?</b></li>
 Son las buenas prácticas o un conjunto de normas no formales, que han sido
 sugeridas por diversas comunidades de desarrolladores a lo largo del tiempo.
 Cuando estás son aplicadas de una manera correcta puede mejorar la calidad del 
 código en el que se implementó.
-    <ul>                                                                                         
-    </p>
-    </td></tr>
+    <ul></p></td></tr>
 <tr><td><b>III. CONCLUSIONES</b></td></tr>
 <tr><td>Mi conclucion sobre este trabajo individual es que en general este fue muy instructivo, ya que me ayudo a recordar algunos conceptos de git en cuanto a su uso e importancia,ademas me parecio una exelente manera de empezar el curso, ya que git nos sera util durante toda la profesion.
+</td></tr>
 </td></tr>
 </tbody>
 </table>
