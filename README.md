@@ -59,7 +59,7 @@
 <tr><td><b>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</b>
 <tr><td>Trabajo individual:
 Crear un repositorio personal y desarrollar el ejercicio resuelto en clase, con almenos 3 commits.<br> 
-<img src="drive.google.com/uc?export=view&id=1nkkLuP79N207MAcVVc7eB93MVzQibN49">
+<img src="commits.png">
 
 </td></tr>
 
@@ -100,7 +100,6 @@ código en el que se implementó.
 </theader>
 <tbody>
 <tr><td>
-    <pre>                                                                                          </pre>
     <pre>                                                                                          </pre>
     </td></tr>
 </tbody>
